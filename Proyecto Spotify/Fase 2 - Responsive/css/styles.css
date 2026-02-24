@@ -406,6 +406,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 0.5rem;
 
     width: 10.625rem;
     padding: 0.25rem;
